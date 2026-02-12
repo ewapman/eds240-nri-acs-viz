@@ -154,3 +154,5 @@ I added the jittered points, adjusted font size, and made the highest group red.
 **5. Is there anything you wanted to implement, but didn’t know how? If so, please describe.**
 
 I would like to have tried to use different fonts.
+
+* My alt text is visible in my qmd, but not my pdf!
